@@ -1,42 +1,42 @@
 const data = [
   {
-    question: "Question 1",
+    question: "Is react good framework?",
     answer: true,
   },
   {
-    question: "Question 2",
+    question: "Is react good framework?",
     answer: true,
   },
   {
-    question: "Question 3",
+    question: "Is react good framework?",
     answer: true,
   },
   {
-    question: "Question 4",
+    question: "Is react good framework?",
     answer: true,
   },
   {
-    question: "Question 5",
+    question: "Is react good framework?",
     answer: true,
   },
   {
-    question: "Question 6",
+    question: "Is react good framework?",
     answer: true,
   },
   {
-    question: "Question 7",
+    question: "Is react good framework?",
     answer: true,
   },
   {
-    question: "Question 8",
+    question: "Is react good framework?",
     answer: true,
   },
   {
-    question: "Question 9",
+    question: "Is react good framework?",
     answer: true,
   },
   {
-    question: "Question 10",
+    question: "Is react good framework?",
     answer: true,
   },
 ];

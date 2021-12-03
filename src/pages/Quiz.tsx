@@ -54,6 +54,7 @@ const Quiz: FC = () => {
           {index < 10 ? (
             <div className="p-grid p-dir-col p-align-center">
               <div className="p-col-8">
+                <h3 className="p-text-center">Question {index + 1}</h3>
                 <p className="p-text-center">{questions[index].question}</p>
               </div>
 
