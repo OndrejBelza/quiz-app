@@ -18,7 +18,6 @@ const Quiz: FC = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    console.log(params);
     if (!params.name) navigate("/");
 
     setQuestions(getQuizData(params.name as string));

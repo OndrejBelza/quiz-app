@@ -10,7 +10,6 @@ const getQuizData = (quizName: string) => {
     default:
       throw new Error("Invalid quiz name");
   }
-  console.log(data);
   return data;
 };
 
